@@ -2,6 +2,8 @@
 
 ## Diffusion Models
 - Diffusion models: https://github.com/lucidrains/denoising-diffusion-pytorch
+- https://github.com/acids-ircam/diffusion_models
+
 
 ## Neural Compression
 - How to compute bpp?
