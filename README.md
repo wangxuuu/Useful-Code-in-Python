@@ -16,6 +16,7 @@
 - https://huzi96.github.io/compression-bench.html
     - A collection of neural compression methods
     - Includes the Kodak dataset
+
 ## GAN
 - GAN Zoo: https://github.com/eriklindernoren/PyTorch-GAN
 
